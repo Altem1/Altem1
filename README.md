@@ -4,9 +4,7 @@
 
 # 📊 GitHub Stats:
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Altem1&show_icons=true&theme=radical) 
-![Stats de Altem1](https://github-readme-stats-one-eight.vercel.app/api?username=Altem1&show_icons=true&theme=radical)
-
-![Lenguajes de Altem1](https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=Altem1&layout=compact&theme=radical)
+![Estadísticas de Altem1](https://metrics.lecoq.io/Altem1)
 ![](https://github-contributor-stats.vercel.app/api?username=Altem1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br></br>
 ![](https://github-readme-stats.vercel.app/api?username=Altem1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
