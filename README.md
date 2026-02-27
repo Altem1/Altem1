@@ -1,6 +1,10 @@
 <div align="center"> 
-# 💫 About Me:
-- 🔭 Actualmente estoy trabajando en [Aprendizaje escolar](https://github.com/Altem1/Estruturas-de-Datos-2.git)<br><br>- 🌱 Actualmente estoy reforzando mis bases en **React, Angular, JSX, Css, C, C++**<br><br>- 👯 En desarrolo de [Registro de monitoreo](https://github.com/Altem1/Aplicacion-de-monitoreo-de-eventos-biologicos-en-tiempo-real)<br><br>- 🤝 Proyecto universitario [Lenguajes de Programacion](https://github.com/Altem1/Proyecto_Lenguajes-de-Programacion)<br><br>- 💬 Puedes consultarme sobre **C, HTML, Css**<br><br>- 📫 Mi contacto **joseemilio753@gmail.com**
+## 👨‍💻 Sobre mí
+
+Soy estudiante de cuarto semestre de Ingeniería en Sistemas Inteligentes, enfocado en el desarrollo de software y la optimización de algoritmos. 
+
+- 🔭 **Desarrollo actual:** Implementaciones y prácticas de [Estructuras de Datos II](https://github.com/Altem1/Estruturas-de-Datos-2.git).
+- 🤝 **Colaboración activa:** Proyecto universitario enfocado en el análisis y aplicación de Lenguajes de Programación.
 
 # 📊 GitHub Stats:
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Altem1&show_icons=true&theme=radical) 
