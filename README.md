@@ -1,9 +1,11 @@
+<div align="center"> 
 # 💫 About Me:
 - 🔭 Actualmente estoy trabajando en [Aprendizaje escolar](https://github.com/Altem1/Estruturas-de-Datos-2.git)<br><br>- 🌱 Actualmente estoy reforzando mis bases en **React, Angular, JSX, Css, C, C++**<br><br>- 👯 En desarrolo de [Registro de monitoreo](https://github.com/Altem1/Aplicacion-de-monitoreo-de-eventos-biologicos-en-tiempo-real)<br><br>- 🤝 Proyecto universitario [Lenguajes de Programacion](https://github.com/Altem1/Proyecto_Lenguajes-de-Programacion)<br><br>- 💬 Puedes consultarme sobre **C, HTML, Css**<br><br>- 📫 Mi contacto **joseemilio753@gmail.com**
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jos_antonio06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-emilio-antonio-jiménez-565355382) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Altem0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:A369664@alumnos.uaslp.mx) 
+<br></br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pp3pk74ayshuxhkxw5vxdvcp7y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pp3pk74ayshuxhkxw5vxdvcp7y&redirect=true)
 
 # 💻 Tech Stack:
@@ -26,4 +28,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Altem1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
