@@ -23,12 +23,6 @@ Soy estudiante de cuarto semestre de Ingeniería en Sistemas Inteligentes, enfoc
 <br></br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pp3pk74ayshuxhkxw5vxdvcp7y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pp3pk74ayshuxhkxw5vxdvcp7y&redirect=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Altem1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Altem1&icon=0&color=0)](https://visitcount.itsvg.in)
 
