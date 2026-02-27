@@ -3,11 +3,7 @@
 - 🔭 Actualmente estoy trabajando en [Aprendizaje escolar](https://github.com/Altem1/Estruturas-de-Datos-2.git)<br><br>- 🌱 Actualmente estoy reforzando mis bases en **React, Angular, JSX, Css, C, C++**<br><br>- 👯 En desarrolo de [Registro de monitoreo](https://github.com/Altem1/Aplicacion-de-monitoreo-de-eventos-biologicos-en-tiempo-real)<br><br>- 🤝 Proyecto universitario [Lenguajes de Programacion](https://github.com/Altem1/Proyecto_Lenguajes-de-Programacion)<br><br>- 💬 Puedes consultarme sobre **C, HTML, Css**<br><br>- 📫 Mi contacto **joseemilio753@gmail.com**
 
 # 📊 GitHub Stats:
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Altem1&show_icons=true&theme=radical) 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altem1&layout=compact&theme=radical&hide_progress=false" />
-</div>
-![](https://github-contributor-stats.vercel.app/api?username=Altem1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Altem1&show_icons=true&theme=radical)  ![](https://github-contributor-stats.vercel.app/api?username=Altem1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br></br>
 ![](https://github-readme-stats.vercel.app/api?username=Altem1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Altem1&theme=dark&hide_border=false)<br/>
