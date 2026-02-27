@@ -4,7 +4,7 @@
 
 # 📊 GitHub Stats:
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Altem1&show_icons=true&theme=radical) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altem1&layout=donut&theme=radical" />
+<img src="https://metrics.lecoq.io/Altem1?template=classic&base.languages=1&base.languages.unit=percentage&base.languages.sections=most-used" />
 ![](https://github-contributor-stats.vercel.app/api?username=Altem1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br></br>
 ![](https://github-readme-stats.vercel.app/api?username=Altem1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
