@@ -1,10 +1,10 @@
 <div align="center"> 
-<h2> 👨‍💻 Sobre mí </h2>
+<h2> Sobre mí </h2>
 
 Soy estudiante de cuarto semestre de Ingeniería en Sistemas Inteligentes, enfocado en el desarrollo de software y la optimización de algoritmos. 
 
-- 🔭 **Desarrollo actual:** Implementaciones y prácticas de [Estructuras de Datos II](https://github.com/Altem1/Estruturas-de-Datos-2.git).
-- 🤝 **Colaboración activa:** Proyecto universitario enfocado en el análisis y aplicación de Lenguajes de Programación. [Lenguajes de Programacion](https://github.com/Altem1/Proyecto_Lenguajes-de-Programacion)
+- **Desarrollo actual:** Implementaciones y prácticas de [Estructuras de Datos II](https://github.com/Altem1/Estruturas-de-Datos-2.git).
+- **Colaboración activa:** Proyecto universitario enfocado en el análisis y aplicación de Lenguajes de Programación. [Lenguajes de Programacion](https://github.com/Altem1/Proyecto_Lenguajes-de-Programacion)
 
 # 📊 GitHub Stats:
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Altem1&show_icons=true&theme=radical) 
